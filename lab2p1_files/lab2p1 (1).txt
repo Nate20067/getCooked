@@ -1,0 +1,46 @@
+
+lab2p1
+Enter weight of package in pounds: 0.5
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 1
+The cost of shipping is $1.50
+lab2p1
+Enter weight of package in pounds: 6.3
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 1
+The cost of shipping is $3.65
+lab2p1
+Enter weight of package in pounds: 20
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 1
+The cost of shipping is $8.50
+lab2p1
+Enter weight of package in pounds: 50.4
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 1
+Service is not avalaible for packages over 50lbs
+lab2p1
+Enter weight of package in pounds: 0.5
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 2
+The cost of shipping is $3.00
+lab2p1
+Enter weight of package in pounds: 6.3
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 2
+The cost of shipping is $6.87
+lab2p1
+Enter weight of package in pounds: 20.0
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 2
+The cost of shipping is $16.20
+lab2p1
+Enter weight of package in pounds: 50.4
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 2
+Service is not avalaible for packages over 50lbs
+lab2p1
+Enter weight of package in pounds: 2.0
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 3
+The cost of shipping is $18.00
+lab2p1
+Enter weight of package in pounds: 8.1
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 3
+The cost of shipping is $54.60
+lab2p1
+Enter weight of package in pounds: 13.0
+Enter the service wanted(1 for ground, 2 for 2nd day, 3 for overnight): 3
+Overnight service is not avalaible for packages over 10lbs
+diary off
