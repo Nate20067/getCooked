@@ -1,0 +1,4 @@
+﻿  FirstPerson.cpp
+C:\Users\Admin\Desktop\FPS\FirstPerson\FirstPerson\FirstPerson.cpp(159,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\FPS\FirstPerson\FirstPerson\FirstPerson.cpp(168,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FirstPerson.vcxproj -> C:\Users\Admin\Desktop\FPS\FirstPerson\x64\Debug\FirstPerson.exe
